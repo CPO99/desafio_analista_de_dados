@@ -1,13 +1,20 @@
 import pandas as pd
 
-#leitura do arquivo CSV, com definição de separador tab
-arquivo = pd.read_csv("datasheet_oscars.csv", sep="\t")
-#padronização do nome das colunas para minúsculo, retirando espaços antes e depois do nome, se houver
+#leitura do arquivo CSV, com definição de separador tab, e garantia da correta leitura dos dados no padrão utf-8
+arquivo = pd.read_csv("datasheet_oscars.csv", sep="\t", encoding='utf-8')
+#padronização do titulo das colunas para minúsculo, retirando espaços antes e depois do nome, se houver
 arquivo.columns = arquivo.columns.str.lower().str.strip()
 
 
-def tbl_movie():
-    pass
+def tbl_movie(title: str):
+    if pd.isna(title) or title == "nan" or title == "none" or title == None or title == "":
+        return False, "[ERRO] - NOME DO FILME NÃO INFORMADO"
+    else:
+        #tratamentos para o título ficar padronizado no banco
+        title = " ".join(title.split()).lower()
+        
+        return True, title
+        
 
 def tlb_oscar():
     pass
@@ -32,4 +39,7 @@ for linha in arquivo.itertuples(index=False):
     detail = linha.detail
     note = linha.note
 
-    print(year, movie)
+    ver, movie = tbl_movie(movie)
+
+    print(movie)
+        
