@@ -1,0 +1,799 @@
+1 - Filmes indicados em cada ano na categoria best picture
+
+Título: black swan
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: the fighter
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: inception
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: the kids are all right
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: the king's speech
+Categoria: best picture
+Cerimônia: 83
+Vencedor? True 
+
+Título: 127 hours
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: the social network
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: toy story 3
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: true grit
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: winter's bone
+Categoria: best picture
+Cerimônia: 83
+Vencedor? False 
+
+Título: the artist
+Categoria: best picture
+Cerimônia: 84
+Vencedor? True 
+
+Título: the descendants
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: extremely loud & incredibly close
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: the help
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: hugo
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: midnight in paris
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: moneyball
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: the tree of life
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: war horse
+Categoria: best picture
+Cerimônia: 84
+Vencedor? False 
+
+Título: amour
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: argo
+Categoria: best picture
+Cerimônia: 85
+Vencedor? True 
+
+Título: beasts of the southern wild
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: django unchained
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: les misérables
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: life of pi
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: lincoln
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: silver linings playbook
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: zero dark thirty
+Categoria: best picture
+Cerimônia: 85
+Vencedor? False 
+
+Título: american hustle
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: captain phillips
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: dallas buyers club
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: gravity
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: her
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: nebraska
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: philomena
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: 12 years a slave
+Categoria: best picture
+Cerimônia: 86
+Vencedor? True 
+
+Título: the wolf of wall street
+Categoria: best picture
+Cerimônia: 86
+Vencedor? False 
+
+Título: american sniper
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: birdman or (the unexpected virtue of ignorance)
+Categoria: best picture
+Cerimônia: 87
+Vencedor? True 
+
+Título: boyhood
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: the grand budapest hotel
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: the imitation game
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: selma
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: the theory of everything
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: whiplash
+Categoria: best picture
+Cerimônia: 87
+Vencedor? False 
+
+Título: the big short
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: bridge of spies
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: brooklyn
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: mad max: fury road
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: the martian
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: the revenant
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: room
+Categoria: best picture
+Cerimônia: 88
+Vencedor? False 
+
+Título: spotlight
+Categoria: best picture
+Cerimônia: 88
+Vencedor? True 
+
+Título: arrival
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: fences
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: hacksaw ridge
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: hell or high water
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: hidden figures
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: la la land
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: lion
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: manchester by the sea
+Categoria: best picture
+Cerimônia: 89
+Vencedor? False 
+
+Título: moonlight
+Categoria: best picture
+Cerimônia: 89
+Vencedor? True 
+
+Título: call me by your name
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: darkest hour
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: dunkirk
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: get out
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: lady bird
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: phantom thread
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: the post
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: the shape of water
+Categoria: best picture
+Cerimônia: 90
+Vencedor? True 
+
+Título: three billboards outside ebbing, missouri
+Categoria: best picture
+Cerimônia: 90
+Vencedor? False 
+
+Título: black panther
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: blackkklansman
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: bohemian rhapsody
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: the favourite
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: green book
+Categoria: best picture
+Cerimônia: 91
+Vencedor? True 
+
+Título: roma
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: a star is born
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: vice
+Categoria: best picture
+Cerimônia: 91
+Vencedor? False 
+
+Título: ford v ferrari
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: the irishman
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: jojo rabbit
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: joker
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: little women
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: marriage story
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: 1917
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: once upon a time...in hollywood
+Categoria: best picture
+Cerimônia: 92
+Vencedor? False 
+
+Título: parasite
+Categoria: best picture
+Cerimônia: 92
+Vencedor? True 
+
+Título: the father
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: judas and the black messiah
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: mank
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: minari
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: nomadland
+Categoria: best picture
+Cerimônia: 93
+Vencedor? True 
+
+Título: promising young woman
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: sound of metal
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: the trial of the chicago 7
+Categoria: best picture
+Cerimônia: 93
+Vencedor? False 
+
+Título: belfast
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: coda
+Categoria: best picture
+Cerimônia: 94
+Vencedor? True 
+
+Título: don't look up
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: drive my car
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: dune
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: king richard
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: licorice pizza
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: nightmare alley
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: the power of the dog
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: west side story
+Categoria: best picture
+Cerimônia: 94
+Vencedor? False 
+
+Título: all quiet on the western front
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: avatar: the way of water
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: the banshees of inisherin
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: elvis
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: everything everywhere all at once
+Categoria: best picture
+Cerimônia: 95
+Vencedor? True 
+
+Título: the fabelmans
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: tár
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: top gun: maverick
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: triangle of sadness
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: women talking
+Categoria: best picture
+Cerimônia: 95
+Vencedor? False 
+
+Título: american fiction
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: anatomy of a fall
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: barbie
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: the holdovers
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: killers of the flower moon
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: maestro
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: oppenheimer
+Categoria: best picture
+Cerimônia: 96
+Vencedor? True 
+
+Título: past lives
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: poor things
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: the zone of interest
+Categoria: best picture
+Cerimônia: 96
+Vencedor? False 
+
+Título: anora
+Categoria: best picture
+Cerimônia: 97
+Vencedor? True 
+
+Título: the brutalist
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: a complete unknown
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: conclave
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: dune: part two
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: emilia pérez
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: i'm still here
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: nickel boys
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: the substance
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+Título: wicked
+Categoria: best picture
+Cerimônia: 97
+Vencedor? False 
+
+
+2 - Categorias que houve indicação para o filme Toy Story 3
+
+Título: toy story 3
+Categoria: animated feature film
+Ano: 2010
+Vencedor? sim 
+
+Título: toy story 3
+Categoria: music (original song)
+Ano: 2010
+Vencedor? sim 
+
+Título: toy story 3
+Categoria: best picture
+Ano: 2010
+Vencedor? não 
+
+Título: toy story 3
+Categoria: sound editing
+Ano: 2010
+Vencedor? não 
+
+Título: toy story 3
+Categoria: writing (adapted screenplay)
+Ano: 2010
+Vencedor? não 
+
+
+3 - Atores ou atrizes com mais de 3 indicações em qualquer Oscar
+
+Nomeado: john williams
+Qtd nomeações: 9 
+
+Nomeado: alexandre desplat
+Qtd nomeações: 8 
+
+Nomeado: diane warren
+Qtd nomeações: 7 
+
+Nomeado: sandy powell
+Qtd nomeações: 6 
+
+Nomeado: roger deakins
+Qtd nomeações: 6 
+
+Nomeado: jacqueline durran
+Qtd nomeações: 6 
+
+Nomeado: meryl streep
+Qtd nomeações: 5 
+
+Nomeado: bradley cooper
+Qtd nomeações: 5 
+
+Nomeado: thomas newman
+Qtd nomeações: 5 
+
+Nomeado: martin scorsese
+Qtd nomeações: 4 
+
+Nomeado: michelle williams
+Qtd nomeações: 4 
+
+Nomeado: mark ruffalo
+Qtd nomeações: 4 
+
+Nomeado: hans zimmer
+Qtd nomeações: 4 
+
+Nomeado: jennifer lawrence
+Qtd nomeações: 4 
+
+Nomeado: sarah greenwood|katie spencer
+Qtd nomeações: 4 
+
+Nomeado: colleen atwood
+Qtd nomeações: 4 
+
+Nomeado: christian bale
+Qtd nomeações: 4 
+
+Nomeado: jenny beavan
+Qtd nomeações: 4 
+
+Nomeado: mark bridges
+Qtd nomeações: 4 
+
+Nomeado: emmanuel lubezki
+Qtd nomeações: 4 
+
+Nomeado: emma stone
+Qtd nomeações: 4 
+
+Nomeado: denzel washington
+Qtd nomeações: 4 
+
+Nomeado: paul thomas anderson
+Qtd nomeações: 4 
+
+Nomeado: david o. russell
+Qtd nomeações: 4 
+
+Nomeado: robert richardson
+Qtd nomeações: 4 
+
+Nomeado: alfonso cuarón
+Qtd nomeações: 4 
+
+Nomeado: amy adams
+Qtd nomeações: 4 
+
+Nomeado: christopher nolan
+Qtd nomeações: 4 
+
+Nomeado: mary zophres
+Qtd nomeações: 4 
