@@ -93,7 +93,7 @@ WHERE n.nominees != 'N/A'
 GROUP BY
     n.nominees
 HAVING COUNT(*) > 3
-ORDER BY total ASC;
+ORDER BY total DESC;
 """
 
 cursor.execute(consulta)
